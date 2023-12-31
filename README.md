@@ -18,10 +18,10 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema. 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-username/seu-projeto.git
+git clone https://github.com/luccasmelow/splash-video.git
 
 # Navegue até o diretório do projeto
-cd seu-projeto
+cd splash-video
 
 # Instale as dependências
 npm install
